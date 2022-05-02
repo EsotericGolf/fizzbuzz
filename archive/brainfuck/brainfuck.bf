@@ -1,5 +1,3 @@
-Code from https://github.com/Zomis/Brainduck/blob/master/src/main/resources/fizzbuzz.bf
-
 TAPE MEANINGS
 255 Start
 254 A Fizz or Buzz text to print
