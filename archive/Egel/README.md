@@ -1,3 +1,5 @@
+[Try it online!](https://tio.run/##jZBPC4JAEMXv@ykeC4EShRIet0OHoIsdOlaE4WgLuop/Dknf3UZNvBh1mzdv3u8tSzElbavTPCsqyLygpA5pTbEU405nLDMpRF1qE@P0LCtKP@JwFCKkCJFumnvdNFACOMN1HKy2yAttGMDqYiQbL/jdmidARwhMCMvyFxsbSsGxe@GNonqQGU6BhCrcoEbgntt23MZUaDOVW/7StfsIJSV1FRO9533H/YXyfqJ@v2o250POpnAdvjcN2FKT6bbtGw "Egel – Try It Online")
+```
 import "prelude.eg"
 import "io.ego"
 
@@ -17,3 +19,4 @@ def fizzbuzz =
       let _ = print N "\n" in fizzbuzz (N+1) ]
 
 def main = fizzbuzz 1
+```
